@@ -1,4 +1,4 @@
----  Attendance Management System ```
+---  Attendance Management System ---
 
 A web-based Attendance Management System designed to simplify and automate the process of student attendance tracking for schools and colleges. The system supports two roles — **Admin (Teacher)** and **Student** — with different permissions and features.
 
