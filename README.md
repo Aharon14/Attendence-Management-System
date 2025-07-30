@@ -64,6 +64,7 @@ attendance\_management\_system/
 <img width="1920" height="1080" alt="Screenshot 2025-07-30 124152" src="https://github.com/user-attachments/assets/ea6779b8-82bd-4563-bdb7-1cda6b789e6e" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-30 124233" src="https://github.com/user-attachments/assets/b4022740-1039-403c-a0b5-685b22e6dd4c" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-30 124255" src="https://github.com/user-attachments/assets/dcac2788-fbf3-495d-a5ba-66f1952e0d3b" />
+<img width="1920" height="1080" alt="Screenshot 2025-07-30 125032" src="https://github.com/user-attachments/assets/9f0d1da3-dc29-4cfe-aa58-98ebf8da3db0" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-30 124435" src="https://github.com/user-attachments/assets/ec90bc2c-820f-4006-89fe-cfaf2c14e47c" />
 <img width="1920" height="1080" alt="Screenshot 2025-07-30 124522" src="https://github.com/user-attachments/assets/6a8d291f-620f-4c07-bc11-12920c14c6e2" />
 
