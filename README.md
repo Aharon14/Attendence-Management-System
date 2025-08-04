@@ -94,5 +94,4 @@ This system does not use JSTL — it’s entirely built using Servlets, JSP, and
 
 ---
 
-Let me know if you want me to add badges, a project demo GIF, or rewrite the content to suit a fresher portfolio tone!
 
